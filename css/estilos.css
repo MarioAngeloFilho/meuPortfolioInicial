@@ -1,0 +1,38 @@
+  body {
+    background: #87CEEB;
+    background-size: auto 100vh; /* VH altua relativa da tela */
+    font-family: Verdana;
+    height: 100vh;
+  }
+  
+  hr {
+	border-color:#aaa;
+	box-sizing:border-box;
+	width: auto;  
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
+  
+  .site-footer {
+	color: black;
+    text-align: center;
+  }
+  
+  .imagens {
+    text-align: center;
+  }
+  
+  .site-p-content {
+	text-align: center;
+  }
+  
+  
+  
